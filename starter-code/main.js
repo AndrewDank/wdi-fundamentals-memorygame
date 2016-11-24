@@ -5,7 +5,9 @@ var cardThree = "king";
 var cardFour = "king";
 
 if(cardOne === cardTwo){
-	alert("You found a match!");
+	alert('You foud a match!');
 } else {
-	alert("Sorry, try again.");
+	alert('Sorry, try again.');
 }
+
+
